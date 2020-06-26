@@ -1,0 +1,22 @@
+Gamebook jam 2020
+https://itch.io/jam/adventure-gamebook-jam
+
+Notes are in my google docs; might transcribe them here as well.
+
+Need to make a few data structures to create the map and handle the inventory management and stats.
+
+Art will probably be minimal; try to create an environement with little art...
+
+Music? might experiment with:
+https://jummbus.bitbucket.io/
+
+since it appears to have decent patches
+
+Want to use this as a neat rendering technique:
+https://codepen.io/omercanbalandi/pen/jOWVOYL
+
+will generate some images for different parts and then use that technique to render them as ascii
+
+This font might help:
+http://strlen.com/square/
+https://fonts.google.com/specimen/VT323?category=Monospace
